@@ -108,10 +108,10 @@ export default {
        },
 
        getNewExpense() {
-     let name_expenses = [];
-          let sum_expenses = [];
-                 let expense_necessity = [];
-                        let index_expense = 1;
+        let name_expenses = [];
+        let sum_expenses = [];
+        let expense_necessity = [];
+        let index_expense = 1;
 
 
 
